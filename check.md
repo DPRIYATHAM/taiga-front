@@ -1,0 +1,1 @@
+Hey, this is a check file, let's see wether this file is going to be added to the repo under the branch registration_page.
